@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langgraph
+langchain-aws
+boto3
+requests
